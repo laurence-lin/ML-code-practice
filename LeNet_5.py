@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import random
 from sklearn.utils import shuffle
 
+'''Commit change to test Git functionality'''
+
 '''First CNN model'''
 from tensorflow.examples.tutorials.mnist import input_data
 
